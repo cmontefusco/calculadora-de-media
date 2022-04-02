@@ -1,0 +1,41 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+  background-color: #000000;
+  background-image: url("https://c1.wallpaperflare.com/preview/448/507/642/yellow-background-pencil-designer.jpg");
+  background-size: cover;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.inserir-notas {
+  color: #ffffff;
+  margin-top: 50px;
+}
+
+.notaProva {
+  border-radius: 20px;
+  border-style: hidden;
+}
+
+.botaoCalcular {
+  background-color: #ffffff;
+  font-family: "Roboto Mono", monospace;
+  color: #ffc71e;
+  border-radius: 20px;
+  border-style: hidden;
+}
